@@ -1,6 +1,8 @@
 # rmcorr
 Calculate the repeated measures correlation coefficient Use rmcorr With (In) R Software
 
+https://www.youtube.com/watch?v=xkMdWWpv37s
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
